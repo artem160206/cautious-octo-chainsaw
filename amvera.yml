@@ -1,0 +1,11 @@
+meta:
+  environment: python
+  toolchain:
+    name: pip
+    version: 3.8
+build:
+  requirementsPath: "C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\requirements.txt"
+run:
+  scriptName: "C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\hz.py"
+  persistenceMount: "C:\\Users\\\u0410\u0440\u0442\u0435\u043C"
+  containerPort: 80
